@@ -1,0 +1,18 @@
+# Data Downloads and large archives
+data_downloads/
+*.7z
+*.zip
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.env
